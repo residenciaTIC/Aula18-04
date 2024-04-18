@@ -33,8 +33,8 @@ export const Add = () => {
           <option value="Química">Química</option>
           <option value="Física">Física</option>
         </select>
-        <input type="text" value={novaPergunta} onChange={(e) => setNovaPergunta(e.target.value)} />
-        <input type="text" value={novaResposta} onChange={(e) => setNovaResposta(e.target.value)} />
+        <input type="text" placeholder="Pergunta" value={novaPergunta} onChange={(e) => setNovaPergunta(e.target.value)} />
+        <input type="text" placeholder="Resposta" value={novaResposta} onChange={(e) => setNovaResposta(e.target.value)} />
         <button type="submit">Adicionar Pergunta</button>
       </form>
     </div>
