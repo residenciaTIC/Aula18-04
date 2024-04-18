@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "materia": "Biologia",
+      "pergunta": "Qual o nome do processo em que as células se dividem para formar novas células?",
+      "resposta": "Mitose"
+    },
+    {
+      "id": 2,
+      "materia": "Química",
+      "pergunta": "Qual é a fórmula química da água?",
+      "resposta": "H2O"
+    },
+    {
+      "id": 3,
+      "materia": "Física",
+      "pergunta": "Qual é a unidade de medida da força?",
+      "resposta": "Newton"
+    },
+    {
+      "id": 4,
+      "materia": "Biologia",
+      "pergunta": "Qual a função do sistema nervoso?",
+      "resposta": "Receber e transmitir estímulos"
+    },
+    {
+      "id": 5,
+      "materia": "Química",
+      "pergunta": "Qual é o elemento mais abundante na crosta terrestre?",
+      "resposta": "Oxigênio"
+    },
+    {
+      "id": 6,
+      "materia": "Física",
+      "pergunta": "Qual é a fórmula para calcular a velocidade média?",
+      "resposta": "Velocidade média = distância / tempo"
+    },
+    {
+      "id": 7,
+      "materia": "Biologia",
+      "pergunta": "Qual o nome do processo em que ocorre a troca gasosa nos pulmões?",
+      "resposta": "Respiração"
+    },
+    {
+      "id": 8,
+      "materia": "Química",
+      "pergunta": "Qual é a função do ácido clorídrico no estômago?",
+      "resposta": "Ajudar na digestão de proteínas"
+    },
+    {
+      "id": 9,
+      "materia": "Física",
+      "pergunta": "Qual é a lei da física que descreve a ação e reação?",
+      "resposta": "Terceira Lei de Newton"
+    },
+    {
+      "id": 10,
+      "materia": "Biologia",
+      "pergunta": "Qual é o nome da substância que dá a cor verde às plantas?",
+      "resposta": "Clorofila"
+    }
+  ]
+}
